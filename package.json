@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "mecab-async": "^0.1.2"
+    "electron": "^25.2.0",
+    "mecab-async": "^0.1.2",
+    "request": "^2.88.2"
   }
 }
