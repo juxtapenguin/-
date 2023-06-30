@@ -1,0 +1,11 @@
+.post{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+}
+.class1{
+    width: 20%;
+}
+.class2{
+    width: 80%;
+}
